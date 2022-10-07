@@ -1,0 +1,22 @@
+.postTitle{
+    text-transform: capitalize;
+}
+.postDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 300px;
+    border: 1px solid #dda120;
+    border-radius: 17px;
+    margin: 2rem 3rem;
+    background-color: antiquewhite;
+}
+.postSpan{
+    font-size: 1.2rem;
+    color: gray;
+}
+.postBody{
+    font-size: 1.1rem;
+}

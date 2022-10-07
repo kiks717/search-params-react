@@ -1,0 +1,35 @@
+.postFetch{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.inputFetch{
+    width: 300px;
+    border-radius: 17px;
+    border: 1px solid #dda120;
+    text-align: center;
+    height: 40px;
+    margin-top: 1rem;
+}
+.ulFetch{
+    list-style: none;
+    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.liFetch{
+    padding: 1rem;
+    margin: 0.8rem;
+    border-bottom: 1px solid gray;
+    font-size: 1.2rem;
+}
+.buttonFetch{
+    width: 120px;
+    height: 40px;
+    background-color: #dda120;
+    border: 1px solid wheat;
+    border-radius: 10px;
+    cursor: pointer;
+}

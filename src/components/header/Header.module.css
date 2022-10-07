@@ -1,0 +1,18 @@
+.header-title{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #dda120;
+}
+a{
+    text-decoration: none;
+}
+.header-div{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items:  center;
+    height: 180px;
+    background-color: aliceblue;
+    border: 1px solid #dda120;
+    border-radius: 10px;
+}
